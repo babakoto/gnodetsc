@@ -19,10 +19,7 @@ const util = {
         "@types/node": "^13.5.0",
         "concurrently": "^5.0.2",
         "express": "^4.17.1",
-        "mongodb": "^3.5.2",
-        "nodemon": "^2.0.2",
-        "reflect-metadata": "^0.1.13",
-        "typeorm": "^0.2.22"
+        "nodemon": "^2.0.2"
     },
     "devDependencies": {
         "typescript": "^3.7.5"
