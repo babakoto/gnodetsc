@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "e.tokiniaina@gmail.com",
-  "git repository": "",
+  "git repository": "https://github.com/babakoto/gnodetsc.git",
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^8.1.0"
