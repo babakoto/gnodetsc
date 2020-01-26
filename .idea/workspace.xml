@@ -1,70 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc404ced-613c-4496-a1bd-9dd6b9973584" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gnodetsc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/win32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move-sync/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move-sync/move-sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/move.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/output/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/path-exists/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/rimraf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/clone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/legacy-streams.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/graceful-fs/polyfills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/jsonfile/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/universalify/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/universalify/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/universalify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/universalify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nodetsc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/generator.js" beforeDir="false" />
+    <list default="true" id="fc404ced-613c-4496-a1bd-9dd6b9973584" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/generator.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,11 +18,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="-24">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="329">
+                <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/generator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="61" selection-start-line="61" selection-end-line="64" selection-end-column="15" />
+              <folding>
+                <element signature="e#54#833#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +59,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/utils/generator.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -119,6 +86,11 @@
               <item name="gnodetsc" type="b2602c69:ProjectViewProjectNode" />
               <item name="gnodetsc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gnodetsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnodetsc" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,6 +109,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zerocool\WebstormProjects\gnodetsc" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zerocool\WebstormProjects\gnodetsc" />
     </key>
@@ -163,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580000867660</updated>
-      <workItem from="1580000869366" duration="643000" />
+      <workItem from="1580000869366" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580001128825</created>
@@ -179,14 +154,22 @@
       <option name="project" value="LOCAL" />
       <updated>1580001247161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add git repository">
+      <created>1580001639000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580001639000</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643000" />
+    <option name="totallyTimeSpent" value="1678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -194,7 +177,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.04405286" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -214,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add git repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="add git repository" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -226,8 +210,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="-24">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="61" selection-start-line="61" selection-end-line="64" selection-end-column="15" />
+          <folding>
+            <element signature="e#54#833#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="329">
+            <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

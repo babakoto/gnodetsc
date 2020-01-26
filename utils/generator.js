@@ -42,7 +42,7 @@ export default class Server {
             res.send("Hello world");
         });
         app.listen(this.port,()=>{
-            console.log("Server started ...")
+            console.log(\`Server started port:${this.port}\`)
         })
     }
 
