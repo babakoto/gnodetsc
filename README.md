@@ -1,15 +1,17 @@
-# rnodetsc
-
-gnodetsc generate nodejs project with typescript 
+# Description
+Generate nodejs project with typescript + nodemon
 
 ### Step 1
+`npm i -g gnodetsc `
+
+### Step 2
 `gnodetsc init myprojet 8080`
 
-### Step 2 
+### Step 3 
 `cd myprojet` 
 
-### Step 3 : install dependencies
+### Step 4 : install dependencies
 `npm install`  
 
-### Step 4 : run server
+### Step 5 : run server
 `npm run dev`  
