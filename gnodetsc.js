@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const util = require('./utils/generator');
 
 const fs = require('fs-extra');
