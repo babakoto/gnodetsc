@@ -15,3 +15,4 @@ Generate nodejs project with typescript + nodemon
 
 ### Step 5 : run server
 `npm run dev`  
+![Image](https://github.com/babakoto/gnodetsc/blob/master/server.PNG).
