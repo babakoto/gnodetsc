@@ -1,12 +1,15 @@
 {
   "name": "gnodetsc",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "generate nodejs project with typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "bin": {
+    "gnodetsc": "./gnodetsc.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/babakoto/gnodetsc.git"

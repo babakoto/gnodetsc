@@ -29,7 +29,7 @@ const util = {
     }
 }`;
     },
-    createServer: () => {
+    createServer: (port) => {
         return `
 import express from 'express';
 
@@ -42,7 +42,7 @@ export default class Server {
             res.send("Hello world");
         });
         app.listen(this.port,()=>{
-            console.log(\`Server started port:${this.port}\`)
+            console.log("Server started port:${port}")
         })
     }
 
@@ -66,6 +66,23 @@ server.start();
 `
         }
 
+    },
+    createTsConfig:()=>{
+        return `
+{
+    "include": ["./src/**/*"],
+    "compilerOptions": {
+      "outDir": "dist",
+      "module": "commonjs",
+      "target": "es6",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
+        `
     }
 };
 

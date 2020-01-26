@@ -17,6 +17,7 @@ if(args[0]!== undefined && args[0] ==="init"){
         createFile(`${args[1]}/package.json`,util.createPackageJson(args[1]));
         createFile(`${args[1]}/src/server.ts`,util.createServer());
         createFile(`${args[1]}/src/index.ts`, util.createIndex(args[2]));
+        createFile(`${args[1]}/tsconfig.json`, util.createTsConfig());
     }else {
         console.log("Name project required")
     }

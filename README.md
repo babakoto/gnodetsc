@@ -1,4 +1,4 @@
-# rcli-tools
+# rnodetsc
 
 gnodetsc generate nodejs project with typescript 
 
