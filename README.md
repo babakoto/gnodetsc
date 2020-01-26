@@ -7,7 +7,6 @@ gnodetsc generate nodejs project with typescript
 
 ### Command 
 `gnodetsc init [projectName] [port]`
-![button](https://github.com/babakoto/rcli-tools/blob/master/button.PNG)
 
 ### server.ts 
     import express from 'express';
