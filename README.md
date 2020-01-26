@@ -2,13 +2,19 @@
 
 gnodetsc generate nodejs project with typescript 
 
-### Install:
-`npm i rcli-tools -g`
+### Step 1
+`gnodetsc init myprojet 8080`
 
-### Command 
-`gnodetsc init [projectName] [port]`
+### Step 2 
+`cd myprojet` 
 
-### server.ts 
+### Step 3 : install dependencies
+`npm install`  
+
+### Step 4 : run server
+`npm run dev`  
+
+
     import express from 'express';
     
     export default class Server {

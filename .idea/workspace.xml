@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gnodetsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/gnodetsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/generator.js" afterDir="false" />
     </list>
@@ -18,68 +19,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gnodetsc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+            <state relative-caret-position="177">
+              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+              <folding>
+                <element signature="e#165#278#0" />
+                <element signature="e#386#692#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-740">
-                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <first_editor relative-caret-position="280">
+                <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/utils/generator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-              <folding>
-                <element signature="e#54#833#0" />
-                <element signature="e#1272#1548#0" />
-                <element signature="e#1573#1589#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/server.ts">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="105">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/dist/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/src/index.ts">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/server.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-453" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/dist/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/generator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-575">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="e#54#833#0" />
+                <element signature="e#863#1240#0" />
+                <element signature="e#1269#1545#0" />
+                <element signature="e#1570#1844#0" />
+                <element signature="e#1870#1892#0" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -92,19 +110,20 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/nodetsc.js" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/gnodetsc.js" />
         <option value="$PROJECT_DIR$/test/src/server.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/test/dist/index.js" />
         <option value="$PROJECT_DIR$/utils/generator.js" />
+        <option value="$PROJECT_DIR$/gnodetsc.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="216" />
-    <option name="y" value="70" />
-    <option name="width" value="1340" />
-    <option name="height" value="725" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,12 +141,25 @@
             <path>
               <item name="gnodetsc" type="b2602c69:ProjectViewProjectNode" />
               <item name="gnodetsc" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnodetsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnodetsc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnodetsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnodetsc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +172,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\zerocool\WebstormProjects\gnodetsc\google\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,7 +205,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580000867660</updated>
       <workItem from="1580000869366" duration="2069000" />
-      <workItem from="1580002954819" duration="2340000" />
+      <workItem from="1580002954819" duration="2982000" />
+      <workItem from="1580053452913" duration="210000" />
+      <workItem from="1580053999606" duration="6074000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580001128825</created>
@@ -218,21 +251,27 @@
       <option name="project" value="LOCAL" />
       <updated>1580003401508</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edit readme">
+      <created>1580006532195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580006532195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4409000" />
+    <option name="totallyTimeSpent" value="11335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17107001" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20607662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2041116" />
@@ -243,7 +282,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45080763" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.39353892" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,55 +309,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-740">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/test/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/utils/generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#54#833#0" />
+            <element signature="e#863#1240#0" />
+            <element signature="e#1269#1545#0" />
+            <element signature="e#1570#1844#0" />
+            <element signature="e#1870#1892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dist/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gnodetsc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="e#165#278#0" />
+            <element signature="e#386#692#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="105">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gnodetsc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/index.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/dist/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/server.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-          <folding>
-            <element signature="e#54#833#0" />
-            <element signature="e#1272#1548#0" />
-            <element signature="e#1573#1589#0" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

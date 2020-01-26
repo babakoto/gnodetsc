@@ -1,6 +1,6 @@
 {
   "name": "gnodetsc",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "generate nodejs project with typescript",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   "author": "e.tokiniaina@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^8.1.0"
+    "fs-extra": "^8.1.0",
+    "shelljs": "^0.8.3"
   }
 }
