@@ -9,7 +9,7 @@ const util = {
     "scripts": {
         "start": "npx tsc && node dist/index.js",
         "test": "echo \\"Error: no test specified\\" && exit 1",
-        "dev": "ts-node-dev ./src/index.ts --clear"
+        "dev": "ts-node-dev --clear ./src/index.ts "
     },
     "keywords": [],
     "author": "",
