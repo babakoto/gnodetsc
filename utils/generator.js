@@ -9,7 +9,7 @@ const util = {
     "scripts": {
         "start": "npx tsc && node dist/index.js",
         "test": "echo \\"Error: no test specified\\" && exit 1",
-        "dev": "concurrently -n \\"TS, Node\\" \\"npx tsc --watch\\" \\"nodemon dist/index.js\\""
+        "dev": "ts-node-dev ./src/index.ts --clear"
     },
     "keywords": [],
     "author": "",
@@ -19,7 +19,7 @@ const util = {
         "@types/node": "^13.5.0",
         "concurrently": "^5.0.2",
         "express": "^4.17.1",
-        "nodemon": "^2.0.2"
+        "ts-node-dev": "^1.0.0-pre.44"
     },
     "devDependencies": {
         "typescript": "^3.7.5"
